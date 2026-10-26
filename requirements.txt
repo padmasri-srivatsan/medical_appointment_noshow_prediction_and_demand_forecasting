@@ -1,0 +1,12 @@
+# Use Python 3.12 in a project virtual environment on Mac.
+numpy==2.3.3
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.7.2
+statsmodels==0.14.5
+matplotlib==3.10.7
+seaborn==0.13.2
+joblib==1.5.2
+streamlit==1.50.0
+ipykernel==6.30.1
+jupyterlab==4.4.9
